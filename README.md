@@ -2,7 +2,7 @@
 
 [![Watch the Video Breakdown](https://img.shields.io/badge/YouTube-Watch%20Video%20Breakdown-red?style=for-the-badge&logo=youtube)](https://youtu.be/qAj1LYHhS0s?si=O-h82alkIn5IAA7L)
 
-> **"Why Akainu's SQL Query Destroyed Marineford (How Indexes Saved Zoro)"**  
+> **"B-Tree Demystified: How SQL Finds Zoro's Bounty Instantly"**  
 > 📺 **Full Video Breakdown:** [https://youtu.be/qAj1LYHhS0s?si=O-h82alkIn5IAA7L](https://youtu.be/qAj1LYHhS0s?si=O-h82alkIn5IAA7L)
 
 ---
